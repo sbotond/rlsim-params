@@ -6,7 +6,7 @@ Datasets
 
 *Homo sapiens*
 
-|                         Files                                                      |              Info URL            | Read length | PCR cycles| Source                         |
+|                         Parameter files                                            |              Info URL            | Read length | PCR cycles| Source                         |
 |:----------------------------------------------------------------------------------:|:--------------------------------:|:-----------:|:----------|:-------------------------------|
 |[SRR065496](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR065496) | [[details]](http://j.mp/10gF04D) |      75     |     -     | human liver carcinoma (HepG2)  |
 |[SRR521457](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR521457) | [[details]](http://j.mp/10gF04D) |      75     |     -     | K562 cell line                 |
@@ -16,7 +16,7 @@ Datasets
 
 *Mus musculus*
 
-|                         Accession                                                  |              Info URL            | Read length | PCR cycles| Source                         |
+|                         Parameter files                                            |              Info URL            | Read length | PCR cycles| Source                         |
 |:----------------------------------------------------------------------------------:|:--------------------------------:|:-----------:|:----------|:-------------------------------|
 |[SRR040000](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR040000) | [[details]](http://j.mp/10gFhoe) |      76     |     16    | embryonic stem cells           |
 |[SRR530635](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR530635) | [[details]](http://j.mp/109cLZI) |101 stranded |     -     | leukemia cell line (K562 analog), dUTP-based stranded protocol|
@@ -28,7 +28,7 @@ Datasets
 
 *Drosophila melanogaster*
 
-|                         Accession                                                  |              Info URL            | Read length | PCR cycles| Source                         |
+|                         Parameter files                                            |              Info URL            | Read length | PCR cycles| Source                         |
 |:----------------------------------------------------------------------------------:|:--------------------------------:|:-----------:|:----------|:-------------------------------|
 |[SRR042423](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR042423) | [[details]](http://j.mp/10gFGad) |      75     |     -     | 30 third-instar wandering larva|
 |[SRR059066](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR059066) | [[details]](http://j.mp/10gFGad) |      75     |     -     | 30 third-instar wandering larva|
