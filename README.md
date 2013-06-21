@@ -5,7 +5,7 @@ the [rlsim](http://bit.ly/rlsim-git) [bias analysis pipeline](http://bit.ly/rlsi
 
 ### Cloning the repository
 
-Issue the following in order to clone both the fasta files containing the canonical transcriptome and the JSON file containing the estimated parameters:
+Issue the following in order to clone both the fasta files containing the canonical transcriptome augmented with the estimated relative expression levels and the JSON file containing the estimated parameters:
 
 ```
 git clone https://github.com/sbotond/rlsim-params.git
