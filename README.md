@@ -17,7 +17,7 @@ git clone https://github.com/sbotond/rlsim-params.git
 Assuming that you have both the fasta and JSON files cloned and `rlsim` is in the path, you can simulate fragments as:
 
 ```
-bzcat datasets/ERR030874/ERR030874_expr.fas.bz2 | rlsim -v -j datasets/ERR030874/effest_raw_params.json
+bzcat datasets/ERR030874/ERR030874_expr.fas.bz2 | rlsim -v -j datasets/ERR030874/effest_raw_params.json > fragments.fas
 ```
 ## Getting more help
 
