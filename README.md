@@ -1,8 +1,29 @@
 
+This repository holds the corrected relative expression levels and raw parameters estimated from various datasets by
+the [rlsim](http://bit.ly/rlsim-git) [bias analysis pipeline](http://bit.ly/rlsim-pl) using the [effest](http://bit.ly/rlsim-doc) tool.
 
+## Cloning the repository
 
-Datasets
---------
+Issue the following in order to clone both the fasta files containing the canonical transcriptome and the JSON file containing the estimated parameters:
+
+```
+git clone https://github.com/sbotond/rlsim-params.git
+```
+
+**WARNING: the full size of the repository is approximately 290M! If you are interested in the parameter files only then simply download them through the web.**
+
+## Simulating based on the parameter files
+
+Assuming that you have both the fasta and JSON files cloned and `rlsim` is in the path, you can simulate fragments as:
+
+```
+bzcat datasets/ERR030874/ERR030874_expr.fas.bz2 | rlsim -v -j datasets/ERR030874/effest_raw_params.json
+```
+## Getting more help
+
+Please consult the `rlsim` [repository](http://bit.ly/rlsim-git), the package [documentation](http://rlsim-doc) and the bias analysis pipeline [repository](http://bit.ly/rlsim-pl) for more help.
+
+## Datasets
 
 *Homo sapiens*
 
