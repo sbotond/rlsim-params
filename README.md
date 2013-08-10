@@ -58,3 +58,4 @@ Please consult the `rlsim` [repository](http://bit.ly/rlsim-git), the package [d
 |[SRR031717](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR031717) | [[details]](http://j.mp/109dj1L) |      37     |     -     | S2-DRSC cell line              |
 |[SRR015074](https://github.com/sbotond/rlsim-params/tree/master/datasets/SRR015074) | [[details]](http://j.mp/10gFUOP) |      50     |     -     | CME\_W1\_Cl.8+ cell line       |
 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/148f65c0b66e11e434c4f7d1f892640e "githalytics.com")](http://githalytics.com/sbotond/rlsim-params)
