@@ -3,7 +3,7 @@
 This repository holds the **corrected and uncorrected relative expression levels** and **raw parameters** estimated from various datasets by
 the [rlsim](http://bit.ly/rlsim-git) [bias analysis pipeline](http://bit.ly/rlsim-pl) using the [effest](http://bit.ly/rlsim-doc) tool.
 
-Additionally, the **uncorrected expression levels** and FASTQ files simulated under the *full* and *flat* models are available for download via the **Files** links in the tables below.
+Additionally, the **uncorrected expression levels** and **FASTQ files** simulated under the *full* and *flat* models are available for download via the **Files** links in the tables below.
 
 ### Cloning the repository
 
